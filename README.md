@@ -3,7 +3,7 @@ Quality Assurance Automation Engineer
 
 * 🌍  I'm based in Cluj-Napoca, Romania
 * 🖥️  See my portfolio at [Martioli](http://martioli.com/)
-* ✉️  You can contact me at [adrian.maciuc \[at\] gmail.com](mailto:adrian.maciuc [at] gmail.com)
+* ✉️  You can contact me at adrian.maciuc [at] gmail.com
 * 🚀  I'm currently working on [Articles about Automation](http://blog.martioli.com/)
 
 ### Skills
